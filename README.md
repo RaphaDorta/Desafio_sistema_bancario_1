@@ -16,7 +16,7 @@ O sistema deve permitir realizar 3 saques diários com limite máximo de 500 rea
 Esta operação deve listar todos os depósitos e saques realizados na conta. No fim da listagem, deve ser exibido o saldo atual da conta. Se o extrato estiver em branco, deve exibir a mensagem: "Não foram realizadas movimentações".
 
 🌐 **Minhas redes sociais:**
-- [![LinkedIn](https://emojicdn.elk.sh/linkedin)](https://www.linkedin.com/in/raphael-siqueira-dorta/)
-- [![Instagram](https://emojicdn.elk.sh/instagram)](https://www.instagram.com/raphadorta/)
+- [LinkedIn](https://www.linkedin.com/in/raphael-siqueira-dorta/)
+- [Instagram](https://www.instagram.com/raphadorta/)
 
 Vamos construir juntos este sistema bancário moderno! 💼💰
