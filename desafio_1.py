@@ -32,7 +32,7 @@ while True:
         saque = float(input('Informe o valor a ser sacado: '))
         
         if (numero_de_saques < LIMITE_DE_SAQUES) and (saque <= LIMITE) and (saque <= saldo):
-            saldo -= sa
+            saldo -= saque
             extrato += f"Saque: - R$ {saque:.2f}\n"
             numero_de_saques += 1
         
